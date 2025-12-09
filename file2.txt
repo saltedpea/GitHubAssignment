@@ -1,1 +1,2 @@
 This is file two
+Appending something in file2
